@@ -15,6 +15,11 @@ h1 {
 
 h2 {
     font-size: 60px;
+    margin-bottom: 0%;
+}
+
+h3 {
+    font-size: 25px;
 }
 
 .first-donate img {
@@ -124,7 +129,7 @@ input[type="text"] {
     display: flex;
     margin-top: 100px;
     margin-bottom: 100px;
-    padding-left: 25%;
+    padding-left: 24%;
     text-align: justify;
 
 }
@@ -139,4 +144,42 @@ input[type="text"] {
     padding-left: 10px;
     padding-right: 10px;
     margin-left: 40px;
+}
+
+.family {
+    background-color: lightsalmon;
+}
+
+.shelter {
+    background-color: antiquewhite;
+}
+
+.education {
+    background-color: gainsboro;
+}
+
+.black {
+    color: black;
+    margin-bottom: 0%;
+    width: 50%;
+
+}
+
+footer {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer h3 {
+    color: tomato;
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+
+footer p {
+    color: gray;
+    font-size: large;
 }
